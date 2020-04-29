@@ -1,0 +1,2 @@
+El programa "ParametrosBloque.m" son los valores dado a los parametros de la respuesta del estado de la simulación, se necesita correr este programa antes de ver el esquema de bloques.
+El programa "ParaCalcularLaP2.m" es lo que se uso para calcular la matriz de transición y todos los componentes de la respuesta.
